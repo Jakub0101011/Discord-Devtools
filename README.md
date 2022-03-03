@@ -1,9 +1,8 @@
 # Description
 [PL]
-jeżeli chcesz włączyć funkcje "devtools" musisz przejść do "AppData/Roaming/Discord/settings.json
+Jeżeli chcesz włączyć funkcje "devtools" musisz przejść do "AppData/Roaming/Discord/settings.json
 i wkleić tam: "DANGEROUS_ENABLE_DEVTOOLS_ONLY_ENABLE_IF_YOU_KNOW_WHAT_YOURE_DOING": true
-
-I zresetuj całego discorda. Włączając program ponownie, otrzymasz już "devtools"
+następnie zresetuj całego discorda. Włączając program ponownie, otrzymasz już "devtools"
 po otrzymaniu możesz włączyć za pomocą skrótu: Ctrl + shift + i.
 [EN]
 If you want to enable "devtools" features you have to go to "AppData / Roaming / Discord / settings.json
@@ -13,7 +12,7 @@ And reset the entire discord. When restarting the program, you will get "devtool
 after receiving, you can turn on with
 Hotkey: Ctrl + Shift + i.
 
-![cos](https://user-images.githubusercontent.com/94227436/156626628-85a160fd-02ac-4656-a918-8dcabd416d93.PNG)
+![tools](https://user-images.githubusercontent.com/94227436/156627004-baf4e4ac-3b95-4cde-bc83-2ce5a1ac575f.PNG)
 
 # Settings.json
 ```json
@@ -31,7 +30,7 @@ Hotkey: Ctrl + Shift + i.
 }
 ```
 
-## Adnotacja od discorda:
+## Annotation from discord:
 [PL]
 NIEBEZPIECZNE, WŁĄCZ NARZĘDZIA DEWELOPERSKIE TYLKO JEŚLI WIESZ, CO ROBISZ
 [EN]
